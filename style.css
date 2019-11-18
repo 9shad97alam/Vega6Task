@@ -1,0 +1,35 @@
+*{
+	background-color: Lightgray;
+}
+.vega6{
+	padding-top: 20px;
+	text-align: center;
+	text-decoration: underline;
+}
+.frm{
+	border: 5px solid;
+    margin-top: 75px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 80px;
+    background-color: LEMONCHIFFON;
+   } 
+.srchbox{
+   background-color: white;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 80px;
+    border: 2px solid;
+    }
+.srchbtn    
+    {
+    background-color: lightskyblue;
+    padding: 15px;
+    border-radius: 15px;
+    }
+.srchbtn:hover{
+	background-color: lightcoral;
+}    
+.img{
+	margin-top: 80px;
+}
